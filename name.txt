@@ -1,0 +1,1 @@
+Working with a data model in Express. # express # node # backend # javascript. Creating an Express API that returns data from a database. 
